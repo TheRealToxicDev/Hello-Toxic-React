@@ -6,7 +6,7 @@
   --wrapper-height: 85vh;
   --image-max-width: 320px;
   --font-family: "Roboto";
-  --font-family-header: "HK Grotesk";
+  --font-family-header: "sans-serif";
 }
 
 /* Basic page style resets */
@@ -19,14 +19,14 @@
 
 /* Import fonts */
 @font-face {
-  font-family: HK Grotesk;
-  src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+  font-family: 'Roboto', sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Roboto&display=swap")
     format("opentype");
 }
 @font-face {
-  font-family: HK Grotesk;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
-  src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+  src: url("https://fonts.googleapis.com/css2?family=Roboto&display=swap")
     format("opentype");
 }
 
