@@ -5,7 +5,7 @@ import { useWiggle } from "../hooks/wiggle";
 // Our language strings
 const strings = [
   "Hello Toxic",
-  "Bonjour Toxic"
+  "Bonjour Toxic",
   "Salut Toxic",
   "Hola Toxic",
   "안녕 Toxic",
