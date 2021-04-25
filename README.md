@@ -13,6 +13,7 @@ Use the Deploy button:
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/TheRealToxicDev/Hello-Toxic-React)
 
 Or follow these steps:
+
 ⇨ Download, Fork or Clone this Repo
 
 ⇨ Open Command Prompt or Terminal in the Directory you created for this Project
