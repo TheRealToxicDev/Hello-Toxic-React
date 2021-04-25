@@ -27,7 +27,7 @@ export default function Home() {
           <span className="divider">|</span>
           <Link href="/about">About</Link>
         </div>
-        <p style="color: #7289DA;">© 2021 Toxic Dev</p>
+        <p style={{color: '#7289DA'}}>© 2021 Toxic Dev</p>
       </footer>
     </Router>
   );
