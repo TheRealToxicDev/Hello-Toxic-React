@@ -4,7 +4,7 @@ import { Helmet } from 'react-helmet-async';
 
 const Seo = () => {
 
-  const url = SEO.url === 'glitch-default' ? window.location.hostname : SEO.url
+  const url = SEO.url === 'hello-toxic' ? window.location.hostname : SEO.url
   
   return <Helmet>
     <title>{SEO.title}</title>
