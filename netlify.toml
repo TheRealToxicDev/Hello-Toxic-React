@@ -3,7 +3,7 @@
   publish = "dist"
 
 [context.deploy-preview]
-  command = "npm start"
+  command = "npm run serve"
 
 [template.environment]
   TOXIC_PAGE_TITLE = "Hello Toxic | React Starter"
