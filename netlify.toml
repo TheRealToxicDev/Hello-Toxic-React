@@ -7,5 +7,5 @@
 
 [template.environment]
   TOXIC_PAGE_TITLE = "Hello Toxic | React Starter"
-  TOXIC_COMPANY_LOGO = ""
+  TOXIC_COMPANY_LOGO = "https://cdn.toxicdev.me/images/1CD57120-57FF-4D66-B446-7EA2AAFCF27C.png"
   TOXIC_SUPPORT_CONTACT_LINK = "https://toxicdev.me/discord"
