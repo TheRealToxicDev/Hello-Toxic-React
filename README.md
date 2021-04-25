@@ -3,6 +3,11 @@ Simple, Hackable and Minimalistic static site made using React and Vite, Deploye
 
 ---
 
+## Live Demo
+* https://react-site.toxic-is-senpai.wtf
+
+---
+
 ## Self Hosting
 ⇨ Download, Fork or Clone this Repo
 
