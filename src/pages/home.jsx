@@ -39,7 +39,7 @@ export default function Home() {
       </animated.div>
       <div className="navigation">
         <animated.div onMouseEnter={trigger}>
-          <a className="btn--click-me" onClick={handleChangeHello} style="color: #7289DA;">
+          <a className="btn--click-me" onClick={handleChangeHello}>
             Psst, click me
           </a>
         </animated.div>
