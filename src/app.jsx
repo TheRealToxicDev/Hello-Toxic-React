@@ -24,10 +24,10 @@ export default function Home() {
       <footer className="footer">
         <div className="links">
           <Link href="/">Home</Link>
-          <span className="divider">|</span>
+          <span className="divider" style={{color: 'white'}}>|</span>
           <Link href="/about">About</Link>
         </div>
-        <p style={{color: '#7289DA'}}>'Made with ❤️ by Toxic Dev</p>
+        <p style={{color: '#7289DA'}}>Made with ❤️ by <a href="https://toxicdev.me">Toxic Dev</a></p>
       </footer>
     </Router>
   );
