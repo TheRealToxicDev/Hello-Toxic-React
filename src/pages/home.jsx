@@ -4,11 +4,12 @@ import { useWiggle } from "../hooks/wiggle";
 
 // Our language strings
 const strings = [
-  "Hello React",
-  "Salut React",
-  "Hola React",
-  "안녕 React",
-  "Hej React"
+  "Hello Toxic",
+  "Bonjour Toxic"
+  "Salut Toxic",
+  "Hola Toxic",
+  "안녕 Toxic",
+  "Hej Toxic"
 ];
 
 // Utility function to choose a random value from the language array
