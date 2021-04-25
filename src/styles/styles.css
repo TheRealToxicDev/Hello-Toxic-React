@@ -1,7 +1,7 @@
 /* Our default values set as CSS variables */
 :root {
   --color-bg: #23272A;
-  --color-text-main: #000000;
+  --color-text-main: #7289DA;
   --color-primary: #AFECE0;
   --wrapper-height: 85vh;
   --image-max-width: 320px;
@@ -89,9 +89,6 @@ a:not(.btn--remix):visited {
 .divider {
   padding: 0 1rem;
 }
-/******************************************************************************
-END Glitch hello-app default styles
-******************************************************************************/
 
 /* Page structure */
 body {
@@ -114,8 +111,8 @@ body {
 
 /* Page titles */
 h1 {
-  color: #2800FF;
-  font-family: HK Grotesk;
+  color: 5539cc;
+  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 100px;
