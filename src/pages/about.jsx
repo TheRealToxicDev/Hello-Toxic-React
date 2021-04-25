@@ -5,8 +5,7 @@ export default function About() {
     <div className="page">
       <h1 className="title">About this site</h1>
       <p>
-        Welcome to the Glitch React starter, where you can instantly create a
-        React site that's fully customizable.
+       This is a Simple, Hackable and Minimalistic static site made to be used as a Template/Introduction to React.
       </p>
       <p>
         This page is a great spot to tell the world a few details about the new
