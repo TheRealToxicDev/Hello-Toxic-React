@@ -3,9 +3,7 @@ import SEO from "../seo.json";
 import { Helmet } from 'react-helmet-async';
 
 const Seo = () => {
-  // If url is set to 'glitch-default', we use the hostname for the current page
-  // Otherwise we use the value set in seo.json
-  // check this works in build
+
   const url = SEO.url === 'glitch-default' ? window.location.hostname : SEO.url
   
   return <Helmet>
